@@ -40,14 +40,14 @@ function App() {
           />
           <h1 className="text">Yay!!!</h1>{" "}
           <p>
-            Happy Valentine's Day Lena!! You are my world - I'm so lucky to have
-            you, and our little family. You're the most perfect girl in the
-            world. Every day I'm proud to be your partner, and stunned by the
-            way you've turned Starlike into something that improves so many
-            lives.
+            {`Happy Valentine's Day Lena!! You are my world - I'm so lucky to have
+  you, and our little family. You're the most perfect girl I've ever
+  had the pleasure of meeting. Every day I'm proud to be your partner,
+  and stunned by the way you've turned Starlike into something that
+  improves so many lives. You've certainly made mine better :)`}
           </p>
           <></>
-          <p>Kocham cie</p>
+          <p>Kocham cię</p>
           <p>Will</p>
         </>
       ) : (
